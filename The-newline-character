@@ -1,0 +1,13 @@
+stuff = 'python\nlanguage'
+#output
+
+print(stuff)
+#output
+
+stuff = 'practicing\npython'
+print(stuff)
+#output
+
+stuff = 'learning\npython\nis\nfun!'
+print(stuff)
+#output
